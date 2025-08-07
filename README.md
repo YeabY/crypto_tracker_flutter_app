@@ -21,7 +21,6 @@ A modern Flutter application for tracking real-time cryptocurrency prices and ma
 
 ### 🎨 User Experience
 - **Modern Material 3 Design**: Beautiful and intuitive interface
-- **Dark/Light Theme Support**: Automatic theme switching based on system preference
 - **Pull-to-Refresh**: Refresh data by pulling down the list
 - **Responsive Design**: Works on all screen sizes
 - **Error Handling**: Graceful error handling with retry options
